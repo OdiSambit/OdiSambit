@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Odi Sambit</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate computer science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odisambit&label=Profile%20views&color=0e75b6&style=flat" alt="odisambit" /> </p>
 
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning Machine Learning and AI.
 
-- 💬 Ask me about Java, Html, CSS, JavaScript
-- Familiar with MongoDB and AWS.
+- 💬 Ask me about Java, Html, CSS, JavaScript, Python.
+- Familiar with Numpy, Pandas, JQuery, Bootstrap.
+- Having knowledge of Data Visualisation tools like : Matlptlib, Seaborn, Ploty.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
