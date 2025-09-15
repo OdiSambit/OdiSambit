@@ -8,6 +8,7 @@
 - 💬 Ask me about Java, Html, CSS, JavaScript, Python.
 - Familiar with Numpy, Pandas, JQuery, Bootstrap.
 - Having knowledge of Data Visualisation tools like : Matlptlib, Seaborn, Ploty.
+- Passionte about AI and ML.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
