@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Machine Learning and AI.
 
-- 💬 Ask me about Java, Html, CSS, JavaScript, Python.
+- 💬 Ask me about Java, Html, CSS, JavaScript, Python, C.
 - Familiar with Numpy, Pandas, JQuery, Bootstrap.
 - Having knowledge of Data Visualisation tools like : Matlptlib, Seaborn, Ploty.
 - Passionte about AI and ML.
